@@ -1,0 +1,27 @@
+#drag-1 {
+  width: 25%;
+  height: 200px;
+  min-height: 6.5em;
+  margin: 10%;
+
+  background-color: #29e;
+  color: white;
+
+  border-radius: 0.75em;
+  padding: 4%;
+
+  -webkit-transform: translate(0px, 0px);
+          transform: translate(0px, 0px);
+}
+
+#test {
+	width: 80%;
+	height: 500px;
+	background-color: #e8e9e8;
+}
+
+.card {
+	pointer-events: none;
+	position: absolute;
+    top: 100px;
+}
