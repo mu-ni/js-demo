@@ -7,3 +7,8 @@ interact.js
 html2canvas.js
 <script src="//cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
 ~~~
+
+2. online demo
+~~~
+https://codepen.io/mu-ni/pen/XRJRmM
+~~~
