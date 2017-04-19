@@ -10,5 +10,5 @@ html2canvas.js
 
 2. online demo
 ~~~
-https://codepen.io/mu-ni/pen/XRJRmM
+//https://codepen.io/mu-ni/pen/XRJRmM
 ~~~
